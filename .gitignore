@@ -1,3 +1,6 @@
 *.xml
 *.tif
 *.points
+*.db
+*.mbtiles-journal
+*.mbtiles
